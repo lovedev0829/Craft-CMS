@@ -36,19 +36,19 @@ This repository is 🔋 battery packed with:
 1. Using `create-next-app`
 
    ```bash
-   pnpm create next-app  -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter ts-pnpm
+   pnpm create next-app
    ```
 
    If you still want to use **pages directory** (_is not actively maintained_) you can use this command
 
    ```bash
-   npx create-next-app -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/tree/pages-directory project-name
+   npx create-next-app
    ```
 
 2. Using `degit`
 
    ```bash
-   npx degit theodorusclarence/ts-nextjs-tailwind-starter YOUR_APP_NAME
+   npx degit 
    ```
 
 3. Deploy to Vercel
